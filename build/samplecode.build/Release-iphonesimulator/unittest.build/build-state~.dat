@@ -1,0 +1,199 @@
+Tunittest
+v7
+r0
+t321052516.185193
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/Info.plist unittest-Info.plist
+cCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/ViewCtlTest.o /Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/samplecodeAppDelegate.o /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/SearchAgent.o /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cPhaseScriptExecution "Run Script" /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Script-000B44F91322CFFD004CAEC5.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004CC127E500000000000008A5
+t1287727077
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.h
+c000000004D729B780000000000000051
+t1299356536
+s81
+i<Foundation/Foundation.h>
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m
+c000000004D729B76000000000000003C
+t1299356534
+s60
+i"SearchAgent.h"
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.h
+c000000004D729C7B00000000000001D7
+t1299356795
+s471
+i<UIKit/UIKit.h>
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m
+c000000004D72985A0000000000000A11
+t1299355738
+s2577
+i"samplecodeAppDelegate.h"
+
+N/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m
+c000000004D72A40E00000000000001D2
+t1299358734
+s466
+i<SenTestingKit/SenTestingKit.h>
+i<UIKit/UIKit.h>
+i"samplecodeAppDelegate.h"
+i"SearchAgent.h"
+i"OCMock/OCMock.h"
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest
+t2
+s0
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest.dSYM
+t2
+s0
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/Info.plist
+t1299359715
+s442
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/unittest
+t2
+s0
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/SearchAgent.o
+t1299359716
+s5096
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/ViewCtlTest.o
+t2
+s0
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/samplecodeAppDelegate.o
+t1299359715
+s50908
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/unittest.LinkFileList
+c000000004D72A7E300000000000001C3
+t1299359715
+s451
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Script-000B44F91322CFFD004CAEC5.sh
+c000000004D72A7E30000000000000062
+t1299359715
+s98
+
+Nunittest-Info.plist
+c000000004D72987D0000000000000281
+t1299355773
+s641
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321052515#321052515#0(0"0(0#1#0"8622374368#0"0#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/SearchAgent.o /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.929080
+e321052516.053873
+r1
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/SearchAgent.o
+x/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m321052515#321052516#0(0"0(0#0#72"/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m8623373184#2182"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/SearchAgent.o0#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/ViewCtlTest.o /Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.687955
+e321052515.928989
+r0
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/ViewCtlTest.o
+x/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m:5:26: error: OCMock/OCMock.h: No such file or directory
+lSLF07#2@72"Compile /Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m321052515#321052515#0(121"/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m:5:26: error: OCMock/OCMock.h: No such file or directory1(4@42"OCMock/OCMock.h: No such file or directory321052515#0#121#0(6@64"/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m321051534#5#0#5#0#28"*: No such file or directory0(0#0#64"/Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m8620886400#2174"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/robin/src/mock-presentation/code/samplecode/ViewCtlTest.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/ViewCtlTest.o1#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/samplecodeAppDelegate.o /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.688883
+e321052515.964817
+r1
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/samplecodeAppDelegate.o
+x/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m321052515#321052515#0(0"0(0#0#82"/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m8620668896#2202"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/samplecodeAppDelegate.o0#
+
+CGenerateDSYMFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest.dSYM /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/unittest
+r0
+
+CLd /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/unittest normal i386
+r0
+
+CPhaseScriptExecution "Run Script" /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Script-000B44F91322CFFD004CAEC5.sh
+s321052516.053973
+e321052516.185124
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Script-000B44F91322CFFD004CAEC5.sh
+o/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'
+o/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)
+o2011-03-05 22:15:16.177 otest[77775:903] The executable for the test bundle at /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest could not be found.
+o/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)
+o/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'
+lSLF07#2@36"Run custom shell script 'Run Script'321052516#321052516#1(20@47"Run unit tests for architecture 'i386' (GC OFF)321052516#321052516#0(404"/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)2011-03-05 22:15:16.177 otest[77775:903] The executable for the test bundle at /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest could not be found./Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)1(4@45"Failed tests for architecture 'i386' (GC OFF)321052516#18446744073709551615#0#0(6@0"321052516#0#0#0#0#0"0(0#0#0"0"103"/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)0"638"/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)2011-03-05 22:15:16.177 otest[77775:903] The executable for the test bundle at /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest could not be found./Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'Command /bin/sh failed with exit code 11(4@39"Command /bin/sh failed with exit code 1321052516#18446744073709551615#0#0(1@0"0(0#0#0"8622313312#18302"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER robin    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/robin/src/mock-presentation/code/samplecode/build    setenv BUILD_ROOT /Users/robin/src/mock-presentation/code/samplecode/build    setenv BUILD_STYLE Release    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator    setenv CACHE_ROOT /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator    setenv CONTENTS_FOLDER_PATH unittest.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH unittest.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/samplecode.dst    setenv DWARF_DSYM_FILE_NAME unittest.octest.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH unittest.octest/Executables    setenv EXECUTABLE_FOLDER_PATH unittest.octest    setenv EXECUTABLE_NAME unittest    setenv EXECUTABLE_PATH unittest.octest/unittest    setenv FILE_LIST /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH unittest.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME unittest.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_ENABLE_FIX_AND_CONTINUE NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE unittest-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH unittest.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH unittest.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/samplecode.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER robin    setenv INSTALL_ROOT /tmp/samplecode.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH unittest.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/unittest-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator\"  \"/Users/robin/src/mock-presentation/code/samplecode\" \"/Users/robin/src/mock-presentation/code/samplecode/Libraries\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal/i386/unittest.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH unittest.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Objects-normal    setenv OBJROOT /Users/robin/src/mock-presentation/code/samplecode/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_CPLUSPLUSFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_LDFLAGS "-framework Foundation -framework SenTestingKit -framework UIKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH unittest.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/PkgInfo    setenv PKGINFO_PATH unittest.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH unittest.octest/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH unittest.octest/PrivateHeaders    setenv PRODUCT_NAME unittest    setenv PRODUCT_SETTINGS_PATH /Users/robin/src/mock-presentation/code/samplecode/unittest-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT samplecode    setenv PROJECT_DERIVED_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/DerivedSources    setenv PROJECT_DIR /Users/robin/src/mock-presentation/code/samplecode    setenv PROJECT_FILE_PATH /Users/robin/src/mock-presentation/code/samplecode/samplecode.xcodeproj    setenv PROJECT_NAME samplecode    setenv PROJECT_TEMP_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build    setenv PUBLIC_HEADERS_FOLDER_PATH unittest.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH unittest.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH unittest.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH unittest.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/robin/src/mock-presentation/code/samplecode    setenv SRCROOT /Users/robin/src/mock-presentation/code/samplecode    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/SymbolRepositories    setenv SYMROOT /Users/robin/src/mock-presentation/code/samplecode/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME unittest    setenv TARGET_BUILD_DIR /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator    setenv TARGET_NAME unittest    setenv TARGET_TEMP_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build    setenv TEMP_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build    setenv TEMP_FILES_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build    setenv TEMP_FILE_DIR /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build    setenv TEMP_ROOT /Users/robin/src/mock-presentation/code/samplecode/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH unittest.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER robin    setenv USER_APPS_DIR /Users/robin/Applications    setenv USER_LIBRARY_DIR /Users/robin/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH unittest.octest/version.plist    setenv VERSION_INFO_BUILDER robin    setenv VERSION_INFO_FILE unittest_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:unittest  PROJECT:samplecode-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME unittest.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv ZERO_LINK NO    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/unittest.build/Script-000B44F91322CFFD004CAEC5.sh1#
+
+CProcessInfoPlistFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/Info.plist unittest-Info.plist
+s321052515.684886
+e321052515.687873
+r1
+xProcessInfoPlistFile
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/Info.plist
+xunittest-Info.plist
+lSLF07#2@27"Process unittest-Info.plist321052515#321052515#0(0"0(0#0#70"/Users/robin/src/mock-presentation/code/samplecode/unittest-Info.plist8621048352#411"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility unittest-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest/Info.plist0#
+
+CTouch /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/unittest.octest
+r0
+

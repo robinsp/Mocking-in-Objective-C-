@@ -1,0 +1,237 @@
+Tsamplecode
+v7
+r0
+t321052515.674778
+cCheck dependencies
+cProcessInfoPlistFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/Info.plist samplecode-Info.plist
+cCompileXIB /Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib
+cProcessPCH /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch.gch samplecode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/main.o /Users/robin/src/mock-presentation/code/samplecode/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecodeAppDelegate.o /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/SearchAgent.o /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode normal i386
+cGenerateDSYMFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app.dSYM /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode
+cTouch /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.h
+c000000004D729B780000000000000051
+t1299356536
+s81
+i<Foundation/Foundation.h>
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m
+c000000004D729B76000000000000003C
+t1299356534
+s60
+i"SearchAgent.h"
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.h
+c000000004D729C7B00000000000001D7
+t1299356795
+s471
+i<UIKit/UIKit.h>
+
+N/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m
+c000000004D72985A0000000000000A11
+t1299355738
+s2577
+i"samplecodeAppDelegate.h"
+
+N/Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib
+c000000004D729AED0000000000003A39
+t1299356397
+s14905
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app
+t1299359715
+s204
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app.dSYM
+t1299359715
+s102
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/Info.plist
+t1299359714
+s603
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/MainWindow.nib
+t1299359714
+s1998
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/PkgInfo
+t1299359714
+s8
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode
+t1299359715
+s16768
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/SearchAgent.o
+t1299359715
+s5096
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/main.o
+t1299359715
+s6312
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecode.LinkFileList
+c000000004D72A7E200000000000001C2
+t1299359714
+s450
+
+N/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecodeAppDelegate.o
+t1299359715
+s50716
+
+N/Users/robin/src/mock-presentation/code/samplecode/main.m
+c000000004D72970C0000000000000172
+t1299355404
+s370
+i<UIKit/UIKit.h>
+
+N/Users/robin/src/mock-presentation/code/samplecode/samplecode_Prefix.pch
+c000000004D72970C00000000000000BD
+t1299355404
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch.gch
+t1299359715
+s15113424
+
+Nsamplecode-Info.plist
+c000000004D72970C000000000000038D
+t1299355404
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321052514#321052514#0(0"0(0#1#0"8622786272#0"0#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/SearchAgent.o /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.555497
+e321052515.625396
+r1
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/SearchAgent.o
+x/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m321052515#321052515#0(0"0(0#0#72"/Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m8618596480#2187"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch -c /Users/robin/src/mock-presentation/code/samplecode/Classes/SearchAgent.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/SearchAgent.o0#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/main.o /Users/robin/src/mock-presentation/code/samplecode/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.459639
+e321052515.555398
+r1
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/main.o
+x/Users/robin/src/mock-presentation/code/samplecode/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/robin/src/mock-presentation/code/samplecode/main.m321052515#321052515#0(0"0(0#0#57"/Users/robin/src/mock-presentation/code/samplecode/main.m8620469248#2165"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch -c /Users/robin/src/mock-presentation/code/samplecode/main.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/main.o0#
+
+CCompileC build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecodeAppDelegate.o /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052515.460774
+e321052515.632167
+r1
+xCompileC
+xbuild/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecodeAppDelegate.o
+x/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m321052515#321052515#0(0"0(0#0#82"/Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m8620459968#2207"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch -c /Users/robin/src/mock-presentation/code/samplecode/Classes/samplecodeAppDelegate.m -o /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecodeAppDelegate.o0#
+
+CCompileXIB /Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib
+s321052514.120385
+e321052514.639930
+r1
+xCompileXIB
+x/Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321052514#321052514#0(0"0(0#0#65"/Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib8620336224#611"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/MainWindow.nib /Users/robin/src/mock-presentation/code/samplecode/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app.dSYM /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode
+s321052515.657858
+e321052515.672093
+r1
+xGenerateDSYMFile
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app.dSYM
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode
+lSLF07#2@122"GenerateDSYMFile build/Release-iphonesimulator/samplecode.app.dSYM build/Release-iphonesimulator/samplecode.app/samplecode321052515#321052515#0(0"0(0#0#106"/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode8622718528#432"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode -o /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app.dSYM0#
+
+CLd /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode normal i386
+s321052515.632253
+e321052515.657763
+r1
+xLd
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode
+xnormal
+xi386
+lSLF07#2@111"Link /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode321052515#321052515#0(0"0(0#0#0"8623061600#983"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -filelist /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/Objects-normal/i386/samplecode.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/samplecode0#
+
+CProcessInfoPlistFile /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/Info.plist samplecode-Info.plist
+s321052514.114035
+e321052514.120297
+r1
+xProcessInfoPlistFile
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/Info.plist
+xsamplecode-Info.plist
+lSLF07#2@29"Process samplecode-Info.plist321052514#321052514#0(0"0(0#0#72"/Users/robin/src/mock-presentation/code/samplecode/samplecode-Info.plist8621179456#528"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility samplecode-Info.plist -genpkginfo /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app/Info.plist0#
+
+CProcessPCH /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch.gch samplecode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321052514.640048
+e321052515.459548
+r1
+xProcessPCH
+x/var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch.gch
+xsamplecode_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile samplecode_Prefix.pch321052514#321052515#0(0"0(0#0#72"/Users/robin/src/mock-presentation/code/samplecode/samplecode_Prefix.pch8620957152#2040"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-generated-files.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-own-target-headers.hmap -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-all-target-headers.hmap -iquote /Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/samplecode-project-headers.hmap -F/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator -I/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/include -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources/i386 -I/Users/robin/src/mock-presentation/code/samplecode/build/samplecode.build/Release-iphonesimulator/samplecode.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/robin/src/mock-presentation/code/samplecode/samplecode_Prefix.pch -o /var/folders/x8/x8j12I+vFMCWrilVvyJr+k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/samplecode_Prefix-bkmwmrcvfootjvbluogzrvolujdh/samplecode_Prefix.pch.gch0#
+
+CTouch /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app
+s321052515.672176
+e321052515.674743
+r1
+xTouch
+x/Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app
+lSLF07#2@101"Touch /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app321052515#321052515#0(0"0(0#0#0"8622418176#307"    cd /Users/robin/src/mock-presentation/code/samplecode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/robin/src/mock-presentation/code/samplecode/build/Release-iphonesimulator/samplecode.app0#
+
