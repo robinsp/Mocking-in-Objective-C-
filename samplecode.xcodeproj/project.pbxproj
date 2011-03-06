@@ -11,11 +11,11 @@
 		000B45371322D333004CAEC5 /* SearchAgent.m in Sources */ = {isa = PBXBuildFile; fileRef = 000B45251322D2E9004CAEC5 /* SearchAgent.m */; };
 		000B454B1322D48F004CAEC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		000B45F81322D49C004CAEC5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
-		000B46201322D4E4004CAEC5 /* samplecodeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* samplecodeAppDelegate.m */; };
+		000B46201322D4E4004CAEC5 /* SearchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */; };
 		000B46501322D6BB004CAEC5 /* SearchAgent.m in Sources */ = {isa = PBXBuildFile; fileRef = 000B45251322D2E9004CAEC5 /* SearchAgent.m */; };
 		000B465C1322D6D5004CAEC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		000B47151322E133004CAEC5 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 000B47141322E133004CAEC5 /* SenTestingKit.framework */; };
-		1D3623260D0F684500981E51 /* samplecodeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* samplecodeAppDelegate.m */; };
+		1D3623260D0F684500981E51 /* SearchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
@@ -42,8 +42,8 @@
 		000B46E91322DD79004CAEC5 /* libOCMock.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libOCMock.a; path = "/Users/robin/src/mock-presentation/code/samplecode/Libraries/libOCMock.a"; sourceTree = "<absolute>"; };
 		000B47141322E133004CAEC5 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* samplecodeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = samplecodeAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* samplecodeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = samplecodeAppDelegate.m; sourceTree = "<group>"; };
+		1D3623240D0F684500981E51 /* SearchAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* SearchAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* samplecode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = samplecode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -89,8 +89,8 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				1D3623240D0F684500981E51 /* samplecodeAppDelegate.h */,
-				1D3623250D0F684500981E51 /* samplecodeAppDelegate.m */,
+				1D3623240D0F684500981E51 /* SearchAppDelegate.h */,
+				1D3623250D0F684500981E51 /* SearchAppDelegate.m */,
 				000B45241322D2E9004CAEC5 /* SearchAgent.h */,
 				000B45251322D2E9004CAEC5 /* SearchAgent.m */,
 			);
@@ -254,7 +254,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				000B45101322D083004CAEC5 /* ViewCtlTest.m in Sources */,
-				000B46201322D4E4004CAEC5 /* samplecodeAppDelegate.m in Sources */,
+				000B46201322D4E4004CAEC5 /* SearchAppDelegate.m in Sources */,
 				000B46501322D6BB004CAEC5 /* SearchAgent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -264,7 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* samplecodeAppDelegate.m in Sources */,
+				1D3623260D0F684500981E51 /* SearchAppDelegate.m in Sources */,
 				000B45371322D333004CAEC5 /* SearchAgent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

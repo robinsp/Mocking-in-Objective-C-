@@ -1,11 +1,11 @@
 #import <SenTestingKit/SenTestingKit.h>
 #import <UIKit/UIKit.h>
-#import "samplecodeAppDelegate.h"
+#import "SearchAppDelegate.h"
 #import "SearchAgent.h"
 #import "OCMock/OCMock.h"
 
-@interface ViewCtlTest : SenTestCase {
-	samplecodeAppDelegate *sut;
+@interface SearchAppDelegateTest : SenTestCase {
+	SearchAppDelegate *sut;
 	id mockPhraseField;
 	id mockAgent;
 }
@@ -16,10 +16,10 @@
 @end
 
 
-@implementation ViewCtlTest
+@implementation SearchAppDelegateTest
 
 - (void) setUp {
-	sut =  [[samplecodeAppDelegate alloc] init];
+	sut =  [[SearchAppDelegate alloc] init];
 	mockPhraseField = [OCMockObject mockForClass:[UITextField class]];
 	mockAgent = [OCMockObject mockForClass:[SearchAgent class]];
 } 
@@ -34,6 +34,22 @@
 
 - (void) testDoSearch_WhenPhrase_isEmpty {
 	[[[mockPhraseField stub] andReturn:@""] text];
+	
+	[self wireupAndAct];
+	
+	[mockAgent verify];
+}
+
+- (void) testDoSearch_WhenPhrase_isNumbers {
+	[[[mockPhraseField stub] andReturn:@"12345"] text];
+	
+	[self wireupAndAct];
+	
+	[mockAgent verify];
+}
+
+- (void) testDoSearch_WhenPhrase_hasLessThanThreeChars {
+	[[[mockPhraseField stub] andReturn:@"AB"] text];
 	
 	[self wireupAndAct];
 	
