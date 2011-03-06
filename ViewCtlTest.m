@@ -8,7 +8,7 @@
 
 @interface SearchAppDelegateTest : SenTestCase {
 	SearchAppDelegate *sut;
-	id mockPhraseField;
+	id stubPhraseField;
 	id mockAgent;
 	id niceAgent;
 }
@@ -24,7 +24,7 @@
 
 - (void) setUp {
 	sut =  [[SearchAppDelegate alloc] init];
-	mockPhraseField = [OCMockObject mockForClass:[UITextField class]];
+	stubPhraseField = [OCMockObject niceMockForClass:[UITextField class]];
 	mockAgent = [OCMockObject mockForClass:[SearchAgent class]];
 } 
 
@@ -84,12 +84,12 @@
 }
 
 - (void) actWithSearchPhrase:(NSString *)inputPhrase {
-	[[[mockPhraseField stub] andReturn:inputPhrase] text];
+	[[[stubPhraseField stub] andReturn:inputPhrase] text];
 	[self wireupAndAct];
 }
 
 - (void) wireupAndAct {
-	sut.searchPhraseField = mockPhraseField;
+	sut.searchPhraseField = stubPhraseField;
 	sut.searchAgent = mockAgent;	
 	[sut doSearch];	
 }

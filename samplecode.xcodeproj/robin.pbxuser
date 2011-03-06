@@ -73,9 +73,9 @@
 	};
 	000B450F1322D083004CAEC5 /* ViewCtlTest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {665, 1313}}";
-			sepNavSelRange = "{1898, 0}";
-			sepNavVisRange = "{1151, 913}";
+			sepNavIntBoundsRect = "{{0, 0}, {665, 1326}}";
+			sepNavSelRange = "{2202, 0}";
+			sepNavVisRange = "{1192, 1119}";
 			sepNavWindowFrame = "{{15, 382}, {989, 671}}";
 		};
 	};
@@ -114,7 +114,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 15";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 151;
 		vrLoc = 0;
@@ -177,7 +177,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 15";
 		rLen = 0;
-		rLoc = 704;
+		rLoc = 708;
 		rType = 0;
 		vrLen = 230;
 		vrLoc = 0;
@@ -287,7 +287,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 29";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -327,7 +327,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 29";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -372,7 +372,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -382,7 +382,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -392,7 +392,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -402,7 +402,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -412,7 +412,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -422,7 +422,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -432,7 +432,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -442,7 +442,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -452,7 +452,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 80;
 		vrLoc = 148;
@@ -462,7 +462,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -482,7 +482,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 80;
 		vrLoc = 148;
@@ -492,7 +492,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 19";
 		rLen = 0;
-		rLoc = 704;
+		rLoc = 708;
 		rType = 0;
 		vrLen = 538;
 		vrLoc = 0;
@@ -558,7 +558,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 80;
 		vrLoc = 148;
@@ -577,7 +577,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 25";
 		rLen = 0;
-		rLoc = 704;
+		rLoc = 708;
 		rType = 0;
 		vrLen = 222;
 		vrLoc = 395;
@@ -626,7 +626,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 17";
 		rLen = 0;
-		rLoc = 667;
+		rLoc = 671;
 		rType = 0;
 		vrLen = 685;
 		vrLoc = 0;
@@ -636,7 +636,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 26";
 		rLen = 0;
-		rLoc = 704;
+		rLoc = 708;
 		rType = 0;
 		vrLen = 669;
 		vrLoc = 0;
@@ -674,7 +674,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 32";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 719;
 		rType = 0;
 		vrLen = 124;
 		vrLoc = 589;
@@ -704,7 +704,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 18";
 		rLen = 0;
-		rLoc = 630;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 674;
 		vrLoc = 98;
@@ -754,7 +754,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 47";
 		rLen = 0;
-		rLoc = 870;
+		rLoc = 874;
 		rType = 0;
 		vrLen = 768;
 		vrLoc = 238;
@@ -814,7 +814,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 62";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 149;
 		vrLoc = 184;
@@ -834,7 +834,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 45";
 		rLen = 0;
-		rLoc = 972;
+		rLoc = 976;
 		rType = 0;
 		vrLen = 914;
 		vrLoc = 382;
@@ -844,7 +844,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 50";
 		rLen = 0;
-		rLoc = 1034;
+		rLoc = 1038;
 		rType = 0;
 		vrLen = 930;
 		vrLoc = 382;
@@ -854,7 +854,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 31";
 		rLen = 0;
-		rLoc = 783;
+		rLoc = 787;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 312;
@@ -864,7 +864,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 32";
 		rLen = 0;
-		rLoc = 825;
+		rLoc = 829;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 312;
@@ -904,7 +904,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 48";
 		rLen = 0;
-		rLoc = 1053;
+		rLoc = 1057;
 		rType = 0;
 		vrLen = 949;
 		vrLoc = 342;
@@ -974,7 +974,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 48";
 		rLen = 0;
-		rLoc = 1053;
+		rLoc = 1057;
 		rType = 0;
 		vrLen = 949;
 		vrLoc = 342;
@@ -1004,7 +1004,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 58";
 		rLen = 0;
-		rLoc = 1187;
+		rLoc = 1191;
 		rType = 0;
 		vrLen = 973;
 		vrLoc = 753;
@@ -1074,7 +1074,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 62";
 		rLen = 0;
-		rLoc = 1187;
+		rLoc = 1191;
 		rType = 0;
 		vrLen = 1031;
 		vrLoc = 795;
@@ -1094,7 +1094,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 61";
 		rLen = 0;
-		rLoc = 1187;
+		rLoc = 1191;
 		rType = 0;
 		vrLen = 1062;
 		vrLoc = 795;
@@ -1104,7 +1104,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 56";
 		rLen = 0;
-		rLoc = 1187;
+		rLoc = 1191;
 		rType = 0;
 		vrLen = 897;
 		vrLoc = 956;
@@ -1130,7 +1130,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 75";
 		rLen = 0;
-		rLoc = 1897;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1137;
 		vrLoc = 910;
@@ -1220,7 +1220,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 75";
 		rLen = 0;
-		rLoc = 1897;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1138;
 		vrLoc = 909;
@@ -1230,7 +1230,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 72";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 1020;
@@ -1240,7 +1240,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 100";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 78;
 		vrLoc = 40;
@@ -1250,7 +1250,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 74";
 		rLen = 0;
-		rLoc = 1819;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 1020;
@@ -1260,7 +1260,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 74";
 		rLen = 0;
-		rLoc = 1819;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 614;
@@ -1310,7 +1310,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 74";
 		rLen = 0;
-		rLoc = 1819;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 1185;
 		vrLoc = 615;
@@ -1320,7 +1320,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 74";
 		rLen = 0;
-		rLoc = 1819;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 1037;
 		vrLoc = 1190;
@@ -1330,7 +1330,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 72";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 1070;
 		vrLoc = 1152;
@@ -1380,7 +1380,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 72";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 780;
 		vrLoc = 1399;
@@ -1390,7 +1390,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 68";
 		rLen = 0;
-		rLoc = 1531;
+		rLoc = 1535;
 		rType = 0;
 		vrLen = 901;
 		vrLoc = 1155;
@@ -1400,7 +1400,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 71";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 901;
 		vrLoc = 1155;
@@ -1410,7 +1410,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 69";
 		rLen = 0;
-		rLoc = 1639;
+		rLoc = 1643;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 1096;
@@ -1420,7 +1420,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 72";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 1096;
@@ -1450,7 +1450,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 72";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 1096;
@@ -1460,7 +1460,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 68";
 		rLen = 0;
-		rLoc = 1546;
+		rLoc = 1550;
 		rType = 0;
 		vrLen = 791;
 		vrLoc = 1131;
@@ -1480,7 +1480,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 68";
 		rLen = 0;
-		rLoc = 1569;
+		rLoc = 1573;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 1131;
@@ -1490,7 +1490,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 73";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 1317;
@@ -1500,7 +1500,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 103";
 		rLen = 0;
-		rLoc = 2307;
+		rLoc = 2311;
 		rType = 0;
 		vrLen = 78;
 		vrLoc = 40;
@@ -1510,7 +1510,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 73";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 1463;
@@ -1520,7 +1520,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 73";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 1463;
@@ -1560,7 +1560,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 74";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1743;
 		rType = 0;
 		vrLen = 718;
 		vrLoc = 1463;
@@ -1570,7 +1570,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 70";
 		rLen = 0;
-		rLoc = 1668;
+		rLoc = 1672;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 1152;
@@ -1580,7 +1580,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 75";
 		rLen = 0;
-		rLoc = 1756;
+		rLoc = 1760;
 		rType = 0;
 		vrLen = 878;
 		vrLoc = 1317;
@@ -1620,7 +1620,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 76";
 		rLen = 0;
-		rLoc = 1798;
+		rLoc = 1802;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 977;
@@ -1630,7 +1630,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 71";
 		rLen = 0;
-		rLoc = 1672;
+		rLoc = 1676;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 1401;
@@ -1640,7 +1640,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 76";
 		rLen = 0;
-		rLoc = 1815;
+		rLoc = 1819;
 		rType = 0;
 		vrLen = 828;
 		vrLoc = 1387;
@@ -1650,7 +1650,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 102";
 		rLen = 0;
-		rLoc = 2302;
+		rLoc = 2306;
 		rType = 0;
 		vrLen = 889;
 		vrLoc = 927;
@@ -1660,10 +1660,20 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 79";
 		rLen = 0;
-		rLoc = 1898;
+		rLoc = 1902;
 		rType = 0;
 		vrLen = 913;
 		vrLoc = 1151;
+	};
+	000B490D1323981A004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
+		name = "ViewCtlTest.m: 92";
+		rLen = 0;
+		rLoc = 2202;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 1192;
 	};
 	1D3623240D0F684500981E51 /* SearchAppDelegate.h */ = {
 		uiCtxt = {
@@ -1902,6 +1912,7 @@
 			000B48F8132396EF004CAEC5 /* PBXTextBookmark */ = 000B48F8132396EF004CAEC5 /* PBXTextBookmark */;
 			000B48FD13239734004CAEC5 /* PBXTextBookmark */ = 000B48FD13239734004CAEC5 /* PBXTextBookmark */;
 			000B490013239760004CAEC5 /* PBXTextBookmark */ = 000B490013239760004CAEC5 /* PBXTextBookmark */;
+			000B490D1323981A004CAEC5 /* PBXTextBookmark */ = 000B490D1323981A004CAEC5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 000B44ED1322CEAC004CAEC5 /* Source Control */;
 		userBuildSettings = {
