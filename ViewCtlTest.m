@@ -4,12 +4,16 @@
 #import "SearchAgent.h"
 #import "OCMock/OCMock.h"
 
+
+
 @interface SearchAppDelegateTest : SenTestCase {
 	SearchAppDelegate *sut;
 	id mockPhraseField;
 	id mockAgent;
+	id niceAgent;
 }
 
+- (void) act;
 - (void) actWithSearchPhrase:(NSString *)inputPhrase;
 - (void) wireupAndAct;
 	
@@ -24,11 +28,15 @@
 	mockAgent = [OCMockObject mockForClass:[SearchAgent class]];
 } 
 
+#pragma mark happy path
+
 - (void) testDoSearch_callsAgent {
 	[[mockAgent expect] search:@"search string"];	
 	[self actWithSearchPhrase:@"search string"];
 	[mockAgent verify];
 }
+
+#pragma mark unsupported search phrases
 
 - (void) testDoSearch_WhenPhrase_isEmpty {
 	[self actWithSearchPhrase:@""];	
@@ -37,7 +45,6 @@
 
 - (void) testDoSearch_WhenPhrase_isNumbers {	
 	[self actWithSearchPhrase:@"12345"];
-	
 	[mockAgent verify];
 }
 
@@ -46,7 +53,35 @@
 	[mockAgent verify];
 }
 
+#pragma mark handle agent responses
+
+- (void) testDoSearch_WhenAgent_returnsTwoItems {
+	NSArray *searchResponse = [NSArray arrayWithObjects:@"one", @"two", nil];
+	[[[mockAgent stub] andReturn:searchResponse] search:[OCMArg any]];
+	
+	[self act];	
+	
+	STAssertEquals(sut.resultCount, 2, @"Wrong result count");
+}
+
+- (void) testDoSearch_WhenAgent_throwsException {
+	NSException *myExc = [NSException    exceptionWithName:@"Garbled" 
+													reason:@"Garbled response" 
+												  userInfo:[NSDictionary dictionary]];
+	
+	// Cannot catch this properly. Probably due to unit test setup
+	[[[mockAgent stub] andThrow:myExc ] search:[OCMArg any]];
+	
+	//[self act];
+	
+	//STAssertEquals(sut.errorString, @"Garbled response", @"Wrong error string");
+}
+
 #pragma mark helpers
+
+- (void) act {
+	[self actWithSearchPhrase:@"Does not matter to the calling method"];
+}
 
 - (void) actWithSearchPhrase:(NSString *)inputPhrase {
 	[[[mockPhraseField stub] andReturn:inputPhrase] text];
@@ -62,6 +97,5 @@
 - (void) tearDown {
 	[sut release];
 }
-
 
 @end

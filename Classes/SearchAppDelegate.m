@@ -3,7 +3,7 @@
 
 @implementation SearchAppDelegate
 
-@synthesize window, searchPhraseField, searchAgent;
+@synthesize window, searchPhraseField, searchAgent, resultCount, errorString;
 
 
 - (BOOL) searchPhraseIsValid {
@@ -14,7 +14,13 @@
 
 - (IBAction) doSearch {
 	if ( [self searchPhraseIsValid] ) {
-		[self.searchAgent search:self.searchPhraseField.text];
+		
+		@try {
+			self.resultCount = [[self.searchAgent search:self.searchPhraseField.text] count];
+		}
+		@catch (NSException * e) {
+			self.errorString = [e reason];
+		}
 	}
 }
 

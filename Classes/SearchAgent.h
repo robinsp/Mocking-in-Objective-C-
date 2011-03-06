@@ -5,6 +5,6 @@
 
 }
 
-- (void) search:(NSString *)phrase;
+- (NSArray *) search:(NSString *)phrase;
 
 @end

@@ -2,8 +2,8 @@
 
 @implementation SearchAgent
 
-- (void) search:(NSString *)phrase {
-
+- (NSArray *) search:(NSString *)phrase {
+	return nil;
 }
 
 @end
