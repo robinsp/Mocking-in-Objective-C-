@@ -26,33 +26,23 @@
 
 - (void) testDoSearch_callsAgent {
 	[[mockAgent expect] search:@"search string"];	
-	
 	[self actWithSearchPhrase:@"search string"];
-	
 	[mockAgent verify];
 }
 
 - (void) testDoSearch_WhenPhrase_isEmpty {
-	[[[mockPhraseField stub] andReturn:@""] text];
-	
-	[self wireupAndAct];
-	
+	[self actWithSearchPhrase:@""];	
 	[mockAgent verify];
 }
 
-- (void) testDoSearch_WhenPhrase_isNumbers {
-	[[[mockPhraseField stub] andReturn:@"12345"] text];
-	
-	[self wireupAndAct];
+- (void) testDoSearch_WhenPhrase_isNumbers {	
+	[self actWithSearchPhrase:@"12345"];
 	
 	[mockAgent verify];
 }
 
 - (void) testDoSearch_WhenPhrase_hasLessThanThreeChars {
-	[[[mockPhraseField stub] andReturn:@"AB"] text];
-	
-	[self wireupAndAct];
-	
+	[self actWithSearchPhrase:@"AB"];
 	[mockAgent verify];
 }
 

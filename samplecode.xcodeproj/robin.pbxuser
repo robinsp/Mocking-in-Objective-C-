@@ -73,9 +73,9 @@
 	};
 	000B450F1322D083004CAEC5 /* ViewCtlTest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {665, 975}}";
-			sepNavSelRange = "{1021, 0}";
-			sepNavVisRange = "{382, 930}";
+			sepNavIntBoundsRect = "{{0, 0}, {665, 884}}";
+			sepNavSelRange = "{728, 0}";
+			sepNavVisRange = "{312, 968}";
 			sepNavWindowFrame = "{{15, 382}, {989, 671}}";
 		};
 	};
@@ -114,7 +114,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 15";
 		rLen = 0;
-		rLoc = 1500;
+		rLoc = 1377;
 		rType = 0;
 		vrLen = 151;
 		vrLoc = 0;
@@ -139,7 +139,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 82;
+		rLoc = 88;
 		rType = 1;
 	};
 	000B452C1322D30E004CAEC5 /* PBXTextBookmark */ = {
@@ -147,7 +147,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 89";
 		rLen = 0;
-		rLoc = 2544;
+		rLoc = 2758;
 		rType = 0;
 		vrLen = 329;
 		vrLoc = 2239;
@@ -217,7 +217,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 89";
 		rLen = 0;
-		rLoc = 2544;
+		rLoc = 2758;
 		rType = 0;
 		vrLen = 432;
 		vrLoc = 1857;
@@ -287,7 +287,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 29";
 		rLen = 0;
-		rLoc = 1500;
+		rLoc = 1377;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -297,7 +297,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 89";
 		rLen = 0;
-		rLoc = 2544;
+		rLoc = 2758;
 		rType = 0;
 		vrLen = 584;
 		vrLoc = 1545;
@@ -327,7 +327,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 29";
 		rLen = 0;
-		rLoc = 1500;
+		rLoc = 1377;
 		rType = 0;
 		vrLen = 464;
 		vrLoc = 0;
@@ -724,7 +724,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 9";
 		rLen = 0;
-		rLoc = 270;
+		rLoc = 484;
 		rType = 0;
 		vrLen = 1425;
 		vrLoc = 0;
@@ -734,7 +734,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 271;
+		rLoc = 485;
 		rType = 0;
 		vrLen = 1478;
 		vrLoc = 0;
@@ -744,7 +744,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1525;
 		vrLoc = 0;
@@ -754,7 +754,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 47";
 		rLen = 0;
-		rLoc = 827;
+		rLoc = 773;
 		rType = 0;
 		vrLen = 768;
 		vrLoc = 238;
@@ -774,7 +774,7 @@
 		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
 		name = "samplecodeAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1525;
 		vrLoc = 0;
@@ -814,7 +814,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 62";
 		rLen = 0;
-		rLoc = 1500;
+		rLoc = 1377;
 		rType = 0;
 		vrLen = 149;
 		vrLoc = 184;
@@ -834,7 +834,7 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 45";
 		rLen = 0;
-		rLoc = 973;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 914;
 		vrLoc = 382;
@@ -844,10 +844,60 @@
 		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
 		name = "ViewCtlTest.m: 50";
 		rLen = 0;
-		rLoc = 1021;
+		rLoc = 939;
 		rType = 0;
 		vrLen = 930;
 		vrLoc = 382;
+	};
+	000B47D113236A3B004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
+		name = "ViewCtlTest.m: 31";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 312;
+	};
+	000B47DA13236B40004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000B450F1322D083004CAEC5 /* ViewCtlTest.m */;
+		name = "ViewCtlTest.m: 32";
+		rLen = 0;
+		rLoc = 728;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 312;
+	};
+	000B47DB13236B40004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SearchAppDelegate.h */;
+		name = "SearchAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 412;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 0;
+	};
+	000B47DC13236B40004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
+		name = "SearchAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 481;
+		rType = 0;
+		vrLen = 1517;
+		vrLoc = 0;
+	};
+	000B47DD13236B40004CAEC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SearchAppDelegate.m */;
+		name = "SearchAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 0;
 	};
 	1D3623240D0F684500981E51 /* SearchAppDelegate.h */ = {
 		uiCtxt = {
@@ -858,9 +908,9 @@
 	};
 	1D3623250D0F684500981E51 /* SearchAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 975}}";
-			sepNavSelRange = "{275, 0}";
-			sepNavVisRange = "{0, 1525}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
+			sepNavSelRange = "{363, 0}";
+			sepNavVisRange = "{0, 1378}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* samplecode */ = {
@@ -1005,6 +1055,11 @@
 			000B47C613236860004CAEC5 /* PBXTextBookmark */ = 000B47C613236860004CAEC5 /* PBXTextBookmark */;
 			000B47C713236896004CAEC5 /* PBXTextBookmark */ = 000B47C713236896004CAEC5 /* PBXTextBookmark */;
 			000B47CA132368E1004CAEC5 /* PBXTextBookmark */ = 000B47CA132368E1004CAEC5 /* PBXTextBookmark */;
+			000B47D113236A3B004CAEC5 /* PBXTextBookmark */ = 000B47D113236A3B004CAEC5 /* PBXTextBookmark */;
+			000B47DA13236B40004CAEC5 /* PBXTextBookmark */ = 000B47DA13236B40004CAEC5 /* PBXTextBookmark */;
+			000B47DB13236B40004CAEC5 /* PBXTextBookmark */ = 000B47DB13236B40004CAEC5 /* PBXTextBookmark */;
+			000B47DC13236B40004CAEC5 /* PBXTextBookmark */ = 000B47DC13236B40004CAEC5 /* PBXTextBookmark */;
+			000B47DD13236B40004CAEC5 /* PBXTextBookmark */ = 000B47DD13236B40004CAEC5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 000B44ED1322CEAC004CAEC5 /* Source Control */;
 		userBuildSettings = {

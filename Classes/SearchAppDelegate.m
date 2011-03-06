@@ -6,8 +6,14 @@
 @synthesize window, searchPhraseField, searchAgent;
 
 
+- (BOOL) searchPhraseIsValid {
+	return	self.searchPhraseField.text != @"" &&
+			[self.searchPhraseField.text length] >= 3 &&
+			self.searchPhraseField.text != @"12345";  // Yeah..it is a sample project to demo mocks!
+}
+
 - (IBAction) doSearch {
-	if (self.searchPhraseField.text != @"") {
+	if ( [self searchPhraseIsValid] ) {
 		[self.searchAgent search:self.searchPhraseField.text];
 	}
 }

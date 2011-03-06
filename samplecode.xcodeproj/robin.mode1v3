@@ -277,8 +277,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
-									<integer>1</integer>
+									<integer>5</integer>
+									<integer>3</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -320,7 +320,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ViewCtlTest.m</string>
+								<string>SearchAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -328,20 +328,20 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ViewCtlTest.m</string>
+										<string>SearchAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>000B47CA132368E1004CAEC5</string>
+										<string>000B47DD13236B40004CAEC5</string>
 										<key>history</key>
 										<array>
 											<string>000B46841322D8CC004CAEC5</string>
 											<string>000B47401322E242004CAEC5</string>
 											<string>000B477D13236338004CAEC5</string>
 											<string>000B477E13236338004CAEC5</string>
-											<string>000B47B813236826004CAEC5</string>
-											<string>000B47B913236826004CAEC5</string>
-											<string>000B47BA13236826004CAEC5</string>
+											<string>000B47DA13236B40004CAEC5</string>
+											<string>000B47DB13236B40004CAEC5</string>
+											<string>000B47DC13236B40004CAEC5</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -584,8 +584,6 @@
 							<string>147pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -638,7 +636,7 @@
 			<key>WindowToolGUID</key>
 			<string>000B451F1322D15A004CAEC5</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
