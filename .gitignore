@@ -1,1 +1,3 @@
 build
+samplecode.xcodeproj/*.mode1v3
+samplecode.xcodeproj/*.pbxuser
